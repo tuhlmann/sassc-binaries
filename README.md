@@ -1,3 +1,5 @@
+**Note:** Please note that this repository has been archived.
+
 # Sassc Binaries
 
 This repository holds precompiled binaries of sassc (https://github.com/sass/sassc),
